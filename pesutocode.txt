@@ -1,0 +1,7 @@
+First create a ship property call and put (hull firepower and accuracy in paramaters)
+
+create a sub class for ussAssembly and alienShips (could just create an instance doing this allows for expanctions)
+
+use methods to decide the accuracy fo the fire and see about making health radnom and firepower ect.
+
+
